@@ -1,3 +1,4 @@
+```
 terraform-vpc-project/
 ├── environments/
 │   └── dev/
@@ -10,3 +11,4 @@ terraform-vpc-project/
 │       ├── variables.tf
 │       └── outputs.tf
 └── versions.tf
+```

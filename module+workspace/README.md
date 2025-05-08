@@ -1,3 +1,4 @@
+```
 terraform-vpc-workspace/
 ├── main.tf
 ├── variables.tf
@@ -12,3 +13,4 @@ terraform-vpc-workspace/
         ├── main.tf
         ├── variables.tf
         └── outputs.tf
+```
