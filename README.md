@@ -64,7 +64,7 @@ terraform-infra/
 
 Folder Structure (Direct Values in main.tf)
 
-### This structure is used when you're using a module in the development environment and directly assigning values to variables within the main.tf file, instead of creating separate terraform.tfvars and variables.tf files.
+### This structure is used when you're using a module in the Specific environment and directly assigning values to variables within the main.tf file, instead of creating separate terraform.tfvars and variables.tf files.
 
 ```
 terraform-infra/
@@ -86,7 +86,7 @@ terraform-infra/
 │       └── outputs.tf
 
 ```
-### This structure is used when you're using a module in the development environment and defining variable values in a separate terraform.tfvars file, rather than directly assigning values in the main.tf file.
+### This structure is used when you're using a module in the Specific environment and defining variable values in a separate terraform.tfvars file, rather than directly assigning values in the main.tf file.
 
 ```
 terraform-infra/
