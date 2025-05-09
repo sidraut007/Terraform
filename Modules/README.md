@@ -4,11 +4,11 @@ terraform-vpc-project/
 │   └── dev/
 │       ├── main.tf
 │       ├── dev.tfvars
-│       └── backend.tf         <-- (optional but recommended)
+│       └── variable.tf         
 ├── modules/
 │   └── vpc/
 │       ├── main.tf
 │       ├── variables.tf
 │       └── outputs.tf
-└── versions.tf
+
 ```

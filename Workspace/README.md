@@ -9,4 +9,5 @@ terraform-vpc-project/
 ├── prod.tfvars                  <-- for prod workspace
 ├── backend.tf                   <-- remote state backend (e.g., S3)
 ├── versions.tf                  <-- provider versions
+
 ```
