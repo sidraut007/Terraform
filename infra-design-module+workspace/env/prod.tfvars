@@ -1,0 +1,5 @@
+aws_region     = "us-east-1"
+vpc_cidr       = "10.1.0.0/16"
+instance_type  = "t3.medium"
+key_pair_name  = "prod-key"
+cidr_block     = "10.0.1.0/24"
